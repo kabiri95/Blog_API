@@ -1,5 +1,5 @@
 .venv/
 .idea/
-__paycache__/
+__pycache__/
 .git/
 
